@@ -38,7 +38,7 @@ const Competitions = ({ title, count, data }) => {
                 </CompetitionCount>
             </Title>
             <SortingBar />
-            <Competition data={null} />
+            <Competition data={1} />
         </Container>
     );
 };
